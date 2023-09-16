@@ -1,0 +1,113 @@
+---
+object: card
+id: 498f08b0-18c7-4593-b5df-9f9e0ae8fb6d
+oracle_id: f705c0eb-9c6c-4315-a860-208ed0c5d93e
+multiverse_ids: []
+tcgplayer_id: 38082
+cardmarket_id: 22936
+name: Cloudpost
+lang: en
+released_at: '2010-01-01'
+uri: https://api.scryfall.com/cards/498f08b0-18c7-4593-b5df-9f9e0ae8fb6d
+scryfall_uri: https://scryfall.com/card/f10/5/cloudpost?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/9/498f08b0-18c7-4593-b5df-9f9e0ae8fb6d.jpg?1561929534
+  normal: https://cards.scryfall.io/normal/front/4/9/498f08b0-18c7-4593-b5df-9f9e0ae8fb6d.jpg?1561929534
+  large: https://cards.scryfall.io/large/front/4/9/498f08b0-18c7-4593-b5df-9f9e0ae8fb6d.jpg?1561929534
+  png: https://cards.scryfall.io/png/front/4/9/498f08b0-18c7-4593-b5df-9f9e0ae8fb6d.png?1561929534
+  art_crop: https://cards.scryfall.io/art_crop/front/4/9/498f08b0-18c7-4593-b5df-9f9e0ae8fb6d.jpg?1561929534
+  border_crop: https://cards.scryfall.io/border_crop/front/4/9/498f08b0-18c7-4593-b5df-9f9e0ae8fb6d.jpg?1561929534
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Locus
+oracle_text: |-
+  Cloudpost enters the battlefield tapped.
+  {T}: Add {C} for each Locus on the battlefield.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: banned
+  legacy: legal
+  pauper: banned
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: '0790f41d-e012-46b7-b97c-bfeda3489a4f'
+set: f10
+set_name: Friday Night Magic 2010
+set_type: promo
+set_uri: https://api.scryfall.com/sets/0790f41d-e012-46b7-b97c-bfeda3489a4f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Af10&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/f10?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/498f08b0-18c7-4593-b5df-9f9e0ae8fb6d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Af705c0eb-9c6c-4315-a860-208ed0c5d93e&unique=prints
+collector_number: '5'
+digital: false
+rarity: rare
+watermark: fnm
+flavor_text: |-
+  "He watches from above. He watches from below. He watches from within."
+  —Inscription on Tel-Jilad, the Tree of Tales
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Jim Nelson
+artist_ids:
+- aa9f64d1-29e1-4c82-877e-44c18183f40b
+illustration_id: 36ebe775-5b77-45f5-8f38-50e1f2dda523
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- tourney
+- fnm
+edhrec_rank: 7269
+penny_rank: 113
+prices:
+  usd: 
+  usd_foil: '7.33'
+  usd_etched: 
+  eur: 
+  eur_foil: '3.99'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Cloudpost&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Cloudpost&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Cloudpost
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38082?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Cloudpost&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Cloudpost&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
